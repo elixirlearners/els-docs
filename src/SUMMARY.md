@@ -19,5 +19,7 @@
     - [Project Diagram](./kdb/project_diagram.md)
     - [Tools & Libraries](./kdb/tools_and_libraries.md)
 
+# Elixir & Discord bots
+  - [Basic setup](./bots/basic_setup.md)
 ---
 [Contributors](./contributors.md)
