@@ -20,7 +20,11 @@ Swap to the branch;
 $ git checkout <my-branch-name>  
 ```
 
+
 ## Step 3 - Contribute
 
-Once in your branch, create the documentation. After your finished push up your changes and create a pull request. 
+Once in your branch, create the documentation.
+**Don't forget to add yourself to the Contributors section if you have not already!**
+After your finished push up your changes and create a pull request. 
 After the changes have be reviewed and merged, it will be built and deployed to the github page. Thats it!
+
