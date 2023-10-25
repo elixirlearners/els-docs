@@ -1,12 +1,7 @@
 # Functional Decompisiton
 
 
-## Goal
-
-## Scope
-
-
-start_bot()
+[Link to Livebook rendered version](https://calebg-livebook.fly.dev/apps/kata-bot-decomp/s5hvql2g7f5lxewvoqpaao4g5dsyefei7htokxtrrms2xnsn)
 
 ```mermaid
 ---
