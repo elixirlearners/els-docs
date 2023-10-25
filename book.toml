@@ -1,0 +1,6 @@
+[book]
+authors = ["Caleb Gasser"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Elixir Learners Documentation"
