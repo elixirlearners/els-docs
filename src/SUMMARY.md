@@ -4,6 +4,13 @@
   - [How to Contribute](./how_to_contribute.md)
   - [Documentation Layout](./documentation_layout.md)
 
+# Learning Resources
+
+- [Books](./learning/books.md)
+- [Websites](./learning/websites.md)
+- [Articles](./learning/articles.md)
+- [Youtube](./learning/youtube.md)
+
 # Projects
 
 - [Projects Overview](./projects_overview.md)
