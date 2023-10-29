@@ -34,6 +34,7 @@ jobs:
       - name: Install mix dependencies
         run: |
           sudo apt install elixir
+          mix local.hex --force
           mix deps.get
       - name: Setup Pages
         id: pages
