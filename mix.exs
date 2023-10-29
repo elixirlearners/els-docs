@@ -13,6 +13,7 @@ defmodule ElsDocs.MixProject do
       source_url: "https://github.com/elixirlearners/els-docs",
       docs: [
         api_reference: false,
+        main: "discord",
         authors: [
           "Caleb Gasser"
         ],
