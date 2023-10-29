@@ -31,10 +31,12 @@ jobs:
       MDBOOK_VERSION: 0.4.21
     steps:
       - uses: actions/checkout@v3
+      - uses: actions/setup-elixir@v1
+        with:
+          elixir-version: '1.14'
+          otp-version: '22.2'
       - name: Install mix dependencies
         run: |
-          sudo apt install elixir
-          mix local.hex --force
           mix deps.get
       - name: Setup Pages
         id: pages
