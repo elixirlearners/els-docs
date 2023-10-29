@@ -1,4 +1,4 @@
-# Basic setup
+# Creating Discord Bots
 
 ## Dependencies
 
