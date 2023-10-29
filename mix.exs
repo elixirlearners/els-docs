@@ -18,6 +18,7 @@ defmodule ElsDocs.MixProject do
         ],
         before_closing_head_tag: &add_mermaid_graph_support/1,
         extras: [
+          "markdown/discord.md",
           "markdown/contributing.md",
           "markdown/doc_layout.md",
           "markdown/learning_resources.md",
