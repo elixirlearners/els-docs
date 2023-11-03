@@ -25,6 +25,7 @@ defmodule ElsDocs.MixProject do
           "markdown/learning_resources.md",
           "markdown/projects.md",
           "markdown/bots.md",
+          "markdown/ecto.md",
           "markdown/contributors.md",
           "LICENSE",
         ]
