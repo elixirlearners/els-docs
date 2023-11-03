@@ -8,6 +8,7 @@ defmodule ElsDocs.MixProject do
       elixir: "~> 1.14",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
+      aliases: aliases(),
       # Docs
       name: "Elixir Learners Documentation",
       source_url: "https://github.com/elixirlearners/els-docs",
@@ -31,6 +32,14 @@ defmodule ElsDocs.MixProject do
         ]
       ]
     ]
+  end
+
+  defp aliases do
+    [docs: ["docs", &copy_images/1]]
+  end
+
+  defp copy_images(_) do
+    File.cp_r!("imgs","doc/imgs")
   end
 
   defp add_mermaid_graph_support(:epub), do: ""

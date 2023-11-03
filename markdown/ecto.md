@@ -4,7 +4,7 @@
 
 You may have to zoom in :P
 
-![Ecto Diagram](../imgs/Ecto.png)
+![Ecto Diagram](./imgs/Ecto.png)
 
 
 TODO
