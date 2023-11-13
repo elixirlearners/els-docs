@@ -28,6 +28,7 @@ defmodule ElsDocs.MixProject do
           "markdown/bots.md",
           "markdown/ecto.md",
           "markdown/contributors.md",
+          "markdown/ci-cd.md",
           "LICENSE",
         ]
       ]
